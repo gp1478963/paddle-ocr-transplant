@@ -1,0 +1,1 @@
+Using the Paddle open-source model library, converting the model into a static model of Onnx, and using OpenCV's C++ interface to achieve inference, the biggest advantage is that it can run on edge machines, supporting the current KylinV10 and UOS systems, as well as domestic CPUs and domestic operating systems
